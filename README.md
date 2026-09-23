@@ -2,7 +2,7 @@
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
 ## Article
-When AI writes Almost All Code, What Happens to Software Engineering?
+When AI writes Almost All Code, What Happens to Software Engineering? https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what
 
 ## Why I Found It Interesting
 
